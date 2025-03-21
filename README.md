@@ -13,7 +13,7 @@ The goal of the challenge was to predict the scores of soccer matches using data
 
 **My score :**  
 
-I achieved an accuracy of 48,70 % with my code, the best score in the challenge being 49,46%. 
+I achieved an accuracy of 48,99 % with my code, the best score in the challenge being 49,46%. 
 
 ---
 
